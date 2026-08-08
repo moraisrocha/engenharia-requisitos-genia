@@ -13,6 +13,10 @@ Este repositório organiza os artefatos de análise e especificação de requisi
   - requisitos-nao-funcionais.md — lista dos requisitos não funcionais.
 - especificacao/ — pasta com os artefatos da fase de especificação.
   - resultado-analise.md — resumo consolidado dos resultados da análise.
+  - historia-usuario-refinada.md — histórias de usuário refinadas com critérios de aceitação.
+  - diagrama-fluxo-processo.md — fluxo principal do processo em formato textual e Mermaid.
+  - prototipo-interface.md — protótipo visual das telas e cenários do sistema.
+  - matriz-rastreabilidade.md — matriz com o vínculo entre requisitos, regras e histórias.
   
 ## Escopo da atividade
 
