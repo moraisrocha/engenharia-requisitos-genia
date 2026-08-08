@@ -1,0 +1,16 @@
+# Mantém apenas os arquivos/pastas autorizados no GitHub
+# Arquivo README
+README.md
+
+# Ignora tudo por padrão
+*
+
+# Reinclui os diretórios e arquivo permitidos
+!analise/
+!especificacao/
+!README.md
+!.gitignore
+
+# Reinclui o conteúdo das pastas permitidas
+!analise/**
+!especificacao/**
